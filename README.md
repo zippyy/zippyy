@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌐 I am a [GL.iNet](https://glinet.com) Employee 
+- 🌐 I am a [GL.iNet](https://gl-inet.com) Employee 
 - 🔭 I’m currently working on my Personal sites as well as scripting for GL.iNet/OpenWRT devices..
 - 🌱 I’m currently learning more scripting and in my freetime I have been learning Penetration testing and bug bounty hunting.
 <!-- - 👯 I’m looking to collaborate on -->
