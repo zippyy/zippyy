@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 <a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
-
+<br>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippyy)](https://github.com/stats-organization/github-stats-extended)
 
