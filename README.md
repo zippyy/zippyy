@@ -20,6 +20,6 @@ Here are some ideas to get you started:-->
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippyy)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zippyy&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=zippyy&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
