@@ -16,6 +16,8 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I have been to more than 65 countries!
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
