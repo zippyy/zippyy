@@ -16,10 +16,10 @@ Here are some ideas to get you started:-->
 <!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: I have been to more than 65 countries!
 
-  <a href="https://gitviewsmap.onrender.com/zippyy">
+<a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
-<br>
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippyy)](https://github.com/stats-organization/github-stats-extended)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
