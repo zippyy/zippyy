@@ -20,7 +20,6 @@ Here are some ideas to get you started:-->
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 <br>
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zippyy)](https://github.com/stats-organization/github-stats-extended)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
