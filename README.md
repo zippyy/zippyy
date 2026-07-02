@@ -15,8 +15,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: https://techrelay.xyz/contact
 <!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: I have been to more than 65 countries!
-
-<a href="https://gitviewsmap.onrender.com/zippyy">
+- <a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 <br>
