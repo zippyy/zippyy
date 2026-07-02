@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🌐 I am a [GL.iNet](https://gl-inet.com) Employee
-- 💻 I maintain a [GL.iNet Community Scripts](https://github.com/GLiNet-Community-Scripts) 
+- 💻 I maintain a [GL.iNet Community Scripts](https://github.com/GLiNet-Community-Scripts) Repo
 - 👨‍💻 I write a popular tech blog: [Tech Relay](https://techrelay.xyz)
 - 🔭 I’m currently working on my Personal sites as well as scripting for GL.iNet/OpenWRT devices..
 - 🌱 I’m currently learning more scripting and in my freetime I have been learning Penetration testing and bug bounty hunting.
