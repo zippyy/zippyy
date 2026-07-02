@@ -16,6 +16,6 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I have been to more than 65 countries!
 
 
-<a href="https://gitviewsmap.onrender.com/YOUR_GITHUB_USERNAME">
-  <img src="https://gitviewsmap.onrender.com/badge/YOUR_GITHUB_USERNAME.svg" alt="GitViewsMap Visitor Badge" />
+<a href="https://gitviewsmap.onrender.com/zippyy">
+  <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
