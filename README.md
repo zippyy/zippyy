@@ -32,6 +32,8 @@ Here are some ideas to get you started:-->
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 
+![Visitors](https://glitch.me)
+
 [![GitHub Stats Terminal](./github_stats.svg)](https://github.com/zippyy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
