@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-banner.svg" alt="Zippyy Tech Relay profile header" width="100%" />
+  <img src="https://raw.githubusercontent.com/zippyy/zippyy/5e82f7c26d21bb88257703c8dc41614444812d61/github-header-banner.svg" alt="Zippyy Tech Relay profile header" width="100%" />
 </p>
 
 ### Hi there 👋
