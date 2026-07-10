@@ -21,6 +21,11 @@ Here are some ideas to get you started:-->
 
 ### Latest Tech Relay posts
 <!-- BLOG-POST-LIST:START -->
+- [Running AstroWarp, Tailscale, ZeroTier, and WireGuard Together on a GL.iNet Flint 3](https://techrelay.xyz/post/astrowarp-tailscale-zerotier-wireguard-flint3/)
+- [How to Use a GL.iNet Flint 3 USB SSD as a Native Apple Time Machine Backup Target](https://techrelay.xyz/post/glinet-flint-3-time-machine-backup/)
+- [How to Install NetEase UU Game Booster on a GL.iNet Router](https://techrelay.xyz/post/install-uu-game-booster-on-glinet-router/)
+- [How to Configure a VLAN Trunk Between a GL.iNet Flint 3 and Any Managed Switch](https://techrelay.xyz/post/networking/flint3-vlan-trunk-managed-switch/)
+- [Skip Port Forwarding: Install Tailscale on a UniFi Dream Machine](https://techrelay.xyz/post/tailscale-unifi-udm-remote-access/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://gitviewsmap.onrender.com/zippyy">
