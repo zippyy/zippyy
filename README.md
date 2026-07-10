@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-header-banner.svg" alt="Zippyy Tech Relay profile header" width="100%" />
+</p>
+
 ### Hi there 👋
 
 <!--
