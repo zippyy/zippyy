@@ -19,6 +19,10 @@ Here are some ideas to get you started:-->
 <!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: I have been to more than 65 countries!
 
+### Latest Tech Relay posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
