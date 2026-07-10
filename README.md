@@ -21,7 +21,10 @@ Here are some ideas to get you started:-->
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=zippyy&theme=catppuccin&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Cblog%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22blog%22%3A%22Check%20out%20my%20blog%20%40%20https%3A%2F%2Ftechrelay.xyz%22%2C%22aboutme%22%3A%22Check%20out%20my%20personal%20page%20%40%20https%3A%2F%2Fnbennett.xyz%22%7D)](https://github.com/zippyy)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=zippyy&theme=tokyonight&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Cblog%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22blog%22%3A%22Check%20out%20my%20blog%20%40%20https%3A%2F%2Ftechrelay.xyz%22%2C%22aboutme%22%3A%22Check%20out%20my%20personal%20page%20%40%20https%3A%2F%2Fnbennett.xyz%22%7D)](https://github.com/zippyy)
+
+<br>
+
 <!--
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zippyy&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=zippyy&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=rose)
