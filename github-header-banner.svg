@@ -1,96 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="842" height="230" viewBox="0 0 842 230" role="img" aria-labelledby="title desc" overflow="hidden">
+<svg xmlns="http://www.w3.org/2000/svg" width="842" height="230" viewBox="0 0 1684 460" role="img" aria-labelledby="title desc">
   <title id="title">Zippyy Tech Relay profile header</title>
   <desc id="desc">Hey! I am Zippyy — Technologist, Engineer, Traveler, Explorer, Father.</desc>
-
   <defs>
-    <clipPath id="banner-clip">
-      <rect x="5" y="5" width="832" height="220" rx="4"/>
-    </clipPath>
-
-    <symbol id="burger" viewBox="0 0 50 35">
-      <path d="M10 14.5C11 7 18 2.5 25 2.5S39 7 40 14.5H10Z"/>
-      <path d="M7 17.5h36c1.5 0 2.5 1 2.5 2.5s-1 2.5-2.5 2.5H7c-1.5 0-2.5-1-2.5-2.5s1-2.5 2.5-2.5Z"/>
-      <path d="M8.5 26h33c-1 5-5 7.5-9 7.5h-15c-4 0-8-2.5-9-7.5Z"/>
-      <path d="m11 23.5 5 3 5-3 5 3 5-3 5 3 5-3" fill="none"/>
+    <symbol id="burger" viewBox="0 0 100 70">
+      <path d="M20 29c2-15 16-24 30-24s28 9 30 24H20Z"/>
+      <path d="M14 35h72c3 0 5 2 5 5s-2 5-5 5H14c-3 0-5-2-5-5s2-5 5-5Z"/>
+      <path d="M17 52h66c-2 10-10 15-18 15H35c-8 0-16-5-18-15Z"/>
+      <path d="m22 47 10 6 10-6 10 6 10-6 10 6 10-6" fill="none"/>
     </symbol>
-
-    <symbol id="popsicle" viewBox="0 0 35 50">
-      <path d="M7.5 5h20v28c0 5.5-4.5 10-10 10s-10-4.5-10-10V5Z"/>
-      <path d="M14 43v5m7-5v5M17.5 12v22"/>
+    <symbol id="popsicle" viewBox="0 0 70 100">
+      <path d="M15 10h40v56c0 11-9 20-20 20s-20-9-20-20V10Z"/>
+      <path d="M28 86v10m14-10v10"/>
+      <path d="M35 24v45"/>
     </symbol>
-
-    <symbol id="donut" viewBox="0 0 50 50">
-      <circle cx="25" cy="25" r="17.5"/>
-      <circle cx="25" cy="25" r="6"/>
-      <path d="M10.5 21c4-6 7.5-2.5 11.5-5 3.5-2.5 6.5 1.5 10.5 1 4.5-.5 6 3.5 8 7.5" fill="none"/>
-      <path d="m16 32 2.5-2.5m4 7 1-3.5m6.5 1.5 2.5-2.5m-14-10.5 2.5 1.5m11 3.5 3 1"/>
+    <symbol id="donut" viewBox="0 0 100 100">
+      <circle cx="50" cy="50" r="35"/>
+      <circle cx="50" cy="50" r="12"/>
+      <path d="M21 42c8-12 15-5 23-10 7-5 13 3 21 2 9-1 12 7 16 15" fill="none"/>
+      <path d="M32 64l5-5m8 14 2-7m13 3 5-5m-28-21 5 3m22 7 6 2"/>
     </symbol>
-
-    <symbol id="icecream" viewBox="0 0 35 50">
-      <path d="M7.5 16c0-5.5 4.5-10 10-10s10 4.5 10 10h-20Z"/>
-      <path d="M5 19h25M9 22.5 17.5 46 26 22.5H9ZM12 29h11m-9 6h7"/>
+    <symbol id="icecream" viewBox="0 0 70 100">
+      <path d="M15 32c0-11 9-20 20-20s20 9 20 20H15Z"/>
+      <path d="M10 38h50"/>
+      <path d="m18 45 17 47 17-47H18Z"/>
+      <path d="M24 58h22M28 70h14"/>
     </symbol>
-
-    <symbol id="cup" viewBox="0 0 40 50">
-      <path d="M7.5 13h25L29 43.5H11L7.5 13Z"/>
-      <path d="M5 13h30M24 13V4.5h8M20 29a6 6 0 1 0 0 .1"/>
+    <symbol id="cup" viewBox="0 0 80 100">
+      <path d="M15 26h50l-7 61H22l-7-61Z"/>
+      <path d="M10 26h60"/>
+      <path d="M48 26V9h16" fill="none"/>
+      <circle cx="40" cy="58" r="12"/>
     </symbol>
-
-    <symbol id="fries" viewBox="0 0 40 50">
-      <path d="M9 15.5 11 4m4.5 11.5.5-13.5m6 13.5 2-13m5 13 3.5-11"/>
-      <path d="M6 17h28l-3.5 26.5h-21L6 17Zm5 4.5h18"/>
+    <symbol id="fries" viewBox="0 0 80 100">
+      <path d="M18 31 22 8m9 23 1-27m12 27 4-26m10 26 7-22"/>
+      <path d="M12 34h56l-7 53H19l-7-53Z"/>
+      <path d="M22 43h36"/>
     </symbol>
   </defs>
 
-  <rect width="842" height="230" rx="7" fill="#ffffff"/>
-  <rect x="5" y="5" width="832" height="220" rx="4" fill="#f36df3"/>
+  <rect width="1684" height="460" rx="13" fill="#ffffff"/>
+  <rect x="10" y="10" width="1664" height="440" rx="5" fill="#ff84ff"/>
 
-  <g clip-path="url(#banner-clip)">
-    <g fill="none" stroke="#ffa3ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.62">
-      <use href="#burger" x="-10" y="5" width="50" height="35"/>
-      <use href="#burger" x="88" y="12" width="60" height="43"/>
-      <use href="#burger" x="208" y="4" width="50" height="35"/>
-      <use href="#burger" x="310" y="12" width="60" height="43"/>
-      <use href="#burger" x="432" y="4" width="50" height="35"/>
-      <use href="#burger" x="535" y="12" width="60" height="43"/>
-      <use href="#burger" x="658" y="4" width="50" height="35"/>
-      <use href="#burger" x="755" y="12" width="60" height="43"/>
+  <g fill="none" stroke="#ffa3ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <use href="#burger" x="-20" y="9" width="100" height="70"/>
+    <use href="#burger" x="175" y="25" width="120" height="85"/>
+    <use href="#burger" x="415" y="8" width="100" height="70"/>
+    <use href="#burger" x="620" y="25" width="120" height="85"/>
+    <use href="#burger" x="865" y="8" width="100" height="70"/>
+    <use href="#burger" x="1070" y="25" width="120" height="85"/>
+    <use href="#burger" x="1315" y="8" width="100" height="70"/>
+    <use href="#burger" x="1510" y="25" width="120" height="85"/>
 
-      <use href="#cup" x="18" y="60" width="45" height="56"/>
-      <use href="#fries" x="98" y="75" width="43" height="53"/>
-      <use href="#icecream" x="165" y="64" width="40" height="58"/>
-      <use href="#cup" x="245" y="60" width="45" height="56"/>
-      <use href="#fries" x="323" y="75" width="43" height="53"/>
-      <use href="#icecream" x="393" y="64" width="40" height="58"/>
-      <use href="#cup" x="470" y="60" width="45" height="56"/>
-      <use href="#fries" x="548" y="75" width="43" height="53"/>
-      <use href="#icecream" x="618" y="64" width="40" height="58"/>
-      <use href="#cup" x="697" y="60" width="45" height="56"/>
-      <use href="#fries" x="772" y="75" width="43" height="53"/>
+    <use href="#cup" x="35" y="120" width="90" height="112"/>
+    <use href="#fries" x="195" y="150" width="85" height="105"/>
+    <use href="#icecream" x="330" y="128" width="80" height="115"/>
+    <use href="#cup" x="490" y="120" width="90" height="112"/>
+    <use href="#fries" x="645" y="150" width="85" height="105"/>
+    <use href="#icecream" x="785" y="128" width="80" height="115"/>
+    <use href="#cup" x="940" y="120" width="90" height="112"/>
+    <use href="#fries" x="1095" y="150" width="85" height="105"/>
+    <use href="#icecream" x="1235" y="128" width="80" height="115"/>
+    <use href="#cup" x="1395" y="120" width="90" height="112"/>
+    <use href="#fries" x="1545" y="150" width="85" height="105"/>
 
-      <use href="#burger" x="-20" y="167" width="55" height="39"/>
-      <use href="#popsicle" x="47" y="152" width="35" height="50"/>
-      <use href="#donut" x="108" y="165" width="53" height="53"/>
-      <use href="#burger" x="183" y="162" width="58" height="41"/>
-      <use href="#popsicle" x="273" y="152" width="35" height="50"/>
-      <use href="#donut" x="333" y="165" width="53" height="53"/>
-      <use href="#burger" x="408" y="162" width="58" height="41"/>
-      <use href="#popsicle" x="498" y="152" width="35" height="50"/>
-      <use href="#donut" x="558" y="165" width="53" height="53"/>
-      <use href="#burger" x="633" y="162" width="58" height="41"/>
-      <use href="#popsicle" x="723" y="152" width="35" height="50"/>
-      <use href="#donut" x="783" y="165" width="53" height="53"/>
-    </g>
-
-    <text x="30" y="111" fill="#7980ff" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="39" font-weight="500">Hey! I am Zippyy!</text>
-    <text x="30" y="145" fill="#fff277" font-family="'Comic Sans MS','Segoe Print',cursive" font-size="21" font-style="italic">Technologist, Engineer, Traveler, Explorer, Father</text>
-
-    <g transform="translate(625 50)">
-      <path d="M17 76c0-20 16-36 36-36 6 0 12 1.5 17 4 7-16 23-27 42-27 23 0 42 17 45 39 5-4 11-7 18-7 17 0 30 13 30 30s-13 30-30 30H49c-18 0-32-14-32-32v-1Z" fill="#29c7bf"/>
-      <path d="M55 76c0-14 11-25 25-25s25 11 25 25H89c0-5-4-9-9-9s-9 4-9 9H55Z" fill="#f36df3"/>
-      <path d="M111 76c0-13 10-23 23-23s23 10 23 23h-16c0-4-3-7-7-7s-7 3-7 7h-16Z" fill="#f36df3"/>
-      <path d="M0 76h176l-9 16 9 16H0l9-16-9-16Z" fill="#253a47"/>
-      <text x="10" y="101" fill="#67afd0" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="27" font-weight="700">Tech Relay</text>
-    </g>
+    <use href="#burger" x="-40" y="335" width="110" height="78"/>
+    <use href="#popsicle" x="94" y="305" width="70" height="100"/>
+    <use href="#donut" x="215" y="330" width="105" height="105"/>
+    <use href="#burger" x="365" y="325" width="115" height="82"/>
+    <use href="#popsicle" x="545" y="305" width="70" height="100"/>
+    <use href="#donut" x="665" y="330" width="105" height="105"/>
+    <use href="#burger" x="815" y="325" width="115" height="82"/>
+    <use href="#popsicle" x="995" y="305" width="70" height="100"/>
+    <use href="#donut" x="1115" y="330" width="105" height="105"/>
+    <use href="#burger" x="1265" y="325" width="115" height="82"/>
+    <use href="#popsicle" x="1445" y="305" width="70" height="100"/>
+    <use href="#donut" x="1565" y="330" width="105" height="105"/>
   </g>
+
+  <text x="62" y="223" fill="#7980ff" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="78" font-weight="500">Hey! I am Zippyy!</text>
+  <text x="62" y="290" fill="#fff2b3" font-family="'Comic Sans MS','Segoe Print',cursive" font-size="42" font-style="italic">Technologist, Engineer, Traveler, Explorer, Father</text>
+
+  <path d="M1333 303L1342 307L1356 310L1519 310L1533 307L1542 303ZM1293 234L1293 239L1328 239L1329 230L1331 224L1335 218L1346 208L1354 204L1362 202L1366 203L1367 217L1370 227L1402 215L1401 202L1400 201L1404 186L1408 180L1415 173L1430 166L1445 166L1451 168L1462 175L1467 181L1453 195L1446 206L1440 222L1438 238L1473 238L1473 232L1479 218L1489 208L1503 202L1517 202L1531 208L1542 220L1546 229L1547 239L1581 239L1581 228L1577 213L1571 201L1567 195L1550 179L1539 173L1523 168L1515 168L1514 167L1500 168L1493 158L1481 146L1474 141L1464 136L1451 132L1431 131L1430 132L1420 133L1408 137L1391 148L1384 155L1375 168L1361 167L1360 168L1348 169L1336 173L1325 179L1308 195L1304 201L1298 213Z" fill="#29d0cb" fill-rule="evenodd"/>
+  <path d="M1266 241L1286 270L1286 272L1266 301L1609 301L1589 271L1609 241L1583 241L1582 240L1547 240L1546 241L1329 241L1328 240L1293 240L1292 241Z" fill="#253a47"/>
+  <path d="M1557 257L1555 258L1555 280L1557 284L1560 286L1563 286L1564 287L1566 286L1570 286L1572 284L1573 284L1574 285L1574 287L1573 289L1569 292L1557 291L1556 294L1560 297L1571 297L1572 296L1574 296L1578 292L1579 290L1579 258L1578 257L1574 258L1574 276L1570 281L1568 281L1567 282L1566 281L1564 281L1561 278L1561 260L1559 257ZM1524 259L1520 264L1520 266L1519 267L1519 276L1520 277L1521 281L1525 285L1527 286L1530 286L1531 287L1537 286L1540 284L1541 284L1543 286L1546 286L1547 285L1547 258L1546 257L1542 257L1541 259L1539 259L1536 257L1528 257ZM1530 262L1536 262L1541 267L1541 269L1542 270L1542 274L1540 278L1538 280L1534 281L1533 282L1532 281L1528 280L1526 278L1525 274L1524 273L1525 267ZM1478 258L1473 263L1472 267L1471 268L1471 276L1474 282L1476 284L1480 286L1483 286L1484 287L1487 287L1488 286L1492 286L1494 285L1497 282L1497 281L1495 279L1493 279L1490 281L1487 281L1486 282L1485 281L1482 281L1477 276L1477 275L1479 273L1498 273L1499 269L1498 268L1498 266L1496 262L1493 259L1489 257L1481 257L1480 258ZM1477 267L1478 265L1482 262L1488 262L1492 266L1492 268L1491 269L1478 269ZM1362 258L1357 263L1356 267L1355 268L1355 275L1356 276L1356 278L1358 282L1363 286L1367 286L1368 287L1370 287L1371 286L1376 286L1378 285L1380 283L1380 281L1378 279L1374 281L1371 281L1370 282L1369 281L1365 280L1361 275L1361 268L1362 266L1367 262L1373 262L1376 264L1379 264L1379 259L1375 257L1365 257L1364 258ZM1328 259L1324 264L1324 266L1323 267L1323 277L1325 281L1329 285L1331 286L1335 286L1336 287L1339 287L1340 286L1346 285L1348 283L1348 280L1347 279L1345 279L1342 281L1339 281L1337 282L1336 281L1332 280L1330 278L1329 274L1330 273L1349 273L1350 272L1350 267L1349 266L1349 264L1346 261L1346 260L1345 260L1341 257L1332 257ZM1329 266L1333 262L1339 262L1343 265L1344 268L1343 269L1330 269L1329 268ZM1436 248L1435 249L1435 284L1437 286L1440 286L1441 285L1441 273L1442 272L1454 272L1456 273L1458 276L1458 281L1459 282L1459 284L1462 286L1465 286L1466 285L1466 282L1463 278L1463 273L1460 270L1460 269L1463 266L1464 262L1465 261L1465 257L1462 251L1457 248ZM1441 255L1443 253L1454 253L1456 254L1459 259L1457 265L1455 267L1442 267L1441 266ZM1295 248L1294 249L1294 252L1295 253L1305 253L1306 254L1306 284L1308 286L1311 286L1312 285L1312 255L1314 253L1324 253L1325 250L1323 248ZM1507 246L1506 247L1506 285L1507 286L1510 286L1512 284L1512 248L1511 246ZM1387 246L1386 247L1386 285L1387 286L1390 286L1392 283L1392 266L1396 262L1401 262L1404 265L1404 267L1405 268L1405 285L1406 286L1409 286L1410 285L1410 263L1409 262L1409 260L1405 257L1397 257L1393 260L1392 259L1392 249L1390 246Z" fill="#66a3bb" fill-rule="evenodd"/>
 </svg>
