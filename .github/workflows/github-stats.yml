@@ -1,0 +1,69 @@
+name: Update Terminal GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+  push:
+    paths:
+      - "terminalConfigs/zippyy.json"
+      - ".github/workflows/github-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: terminal-github-stats
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Check out terminal stats generator
+        uses: actions/checkout@v4
+        with:
+          repository: yogeshwaran01/github-stats-terminal-style
+          ref: master
+          path: generator
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: generator/package-lock.json
+
+      - name: Install and build generator
+        working-directory: generator
+        run: |
+          npm ci
+          npm run build
+
+      - name: Generate terminal stats SVG
+        env:
+          GHT: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p generator/terminalConfigs
+          cp terminalConfigs/zippyy.json generator/terminalConfigs/zippyy.json
+          cd generator
+          node dist/bin/github-stats-terminal.js --bulk
+          cp terminals/zippyy.svg "$GITHUB_WORKSPACE/github_stats.svg"
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github_stats.svg
+
+          if git diff --cached --quiet; then
+            echo "Terminal stats are already current."
+            exit 0
+          fi
+
+          git commit -m "chore: update terminal GitHub stats"
+          git push
