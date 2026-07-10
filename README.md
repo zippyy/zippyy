@@ -21,8 +21,6 @@ Here are some ideas to get you started:-->
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
 </a>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=zippyy&theme=tokyonight&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Cblog%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22blog%22%3A%22Check%20out%20my%20blog%20%40%20https%3A%2F%2Ftechrelay.xyz%22%2C%22aboutme%22%3A%22Check%20out%20my%20personal%20page%20%40%20https%3A%2F%2Fnbennett.xyz%22%7D)](https://github.com/zippyy)
-
 <br>
 
 <!--
@@ -32,3 +30,6 @@ Here are some ideas to get you started:-->
 -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=zippyy&theme=tokyonight&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Cblog%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22blog%22%3A%22Check%20out%20my%20blog%20%40%20https%3A%2F%2Ftechrelay.xyz%22%2C%22aboutme%22%3A%22Check%20out%20my%20personal%20page%20%40%20https%3A%2F%2Fnbennett.xyz%22%7D)](https://github.com/zippyy)
