@@ -39,9 +39,9 @@
   </defs>
 
   <rect width="1684" height="460" rx="13" fill="#ffffff"/>
-  <rect x="10" y="10" width="1664" height="440" rx="5" fill="#f36df3"/>
+  <rect x="10" y="10" width="1664" height="440" rx="5" fill="#ff84ff"/>
 
-  <g fill="none" stroke="#f8b4ef" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.56">
+  <g fill="none" stroke="#ffa3ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
     <use href="#burger" x="-20" y="9" width="100" height="70"/>
     <use href="#burger" x="175" y="25" width="120" height="85"/>
     <use href="#burger" x="415" y="8" width="100" height="70"/>
@@ -77,14 +77,10 @@
     <use href="#donut" x="1565" y="330" width="105" height="105"/>
   </g>
 
-  <text x="58" y="223" fill="#9966e8" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="78" font-weight="500">Hey! I am Zippyy!</text>
-  <text x="60" y="290" fill="#ffff77" font-family="'Comic Sans MS','Segoe Print',cursive" font-size="42" font-style="italic">Technologist, Engineer, Traveler, Explorer, Father</text>
+  <text x="62" y="223" fill="#7980ff" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="78" font-weight="500">Hey! I am Zippyy!</text>
+  <text x="62" y="290" fill="#fff2b3" font-family="'Comic Sans MS','Segoe Print',cursive" font-size="42" font-style="italic">Technologist, Engineer, Traveler, Explorer, Father</text>
 
-  <g transform="translate(1264 114)">
-    <path d="M61 126c0-37 30-67 67-67 11 0 21 2 30 7 14-30 44-50 79-50 44 0 81 33 87 75 9-8 22-13 36-13 30 0 55 24 55 55s-25 55-55 55H120c-33 0-59-26-59-59v-3Z" fill="#29c7bf"/>
-    <path d="M133 126c0-27 22-49 49-49s49 22 49 49h-31c0-10-8-18-18-18s-18 8-18 18h-31Z" fill="#f36df3"/>
-    <path d="M238 126c0-25 20-45 45-45s45 20 45 45h-31c0-8-6-14-14-14s-14 6-14 14h-31Z" fill="#f36df3"/>
-    <path d="M0 126h350l-17 31 17 31H0l17-31-17-31Z" fill="#24263b"/>
-    <text x="18" y="174" fill="#67afd0" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="54" font-weight="700">Tech Relay</text>
-  </g>
+  <path d="M1339 304L1355 309L1356 308L1360 308L1361 309L1514 309L1515 308L1519 308L1520 309L1536 304ZM1580 231L1579 230L1579 223L1577 220L1574 208L1571 205L1571 203L1563 192L1548 179L1546 179L1543 176L1533 173L1531 171L1527 171L1522 169L1517 169L1516 168L1515 169L1507 169L1506 168L1505 169L1500 169L1490 156L1475 143L1468 140L1466 138L1461 136L1457 136L1451 133L1439 133L1437 132L1436 133L1424 133L1421 135L1409 138L1395 146L1383 158L1375 169L1370 169L1369 168L1368 169L1360 169L1359 168L1358 169L1353 169L1337 174L1324 181L1308 196L1308 198L1303 204L1304 205L1302 206L1302 209L1299 212L1298 215L1299 216L1296 222L1297 225L1296 226L1295 225L1296 226L1296 230L1294 238L1328 238L1327 231L1332 220L1345 207L1353 204L1355 202L1360 202L1361 201L1363 202L1365 201L1367 204L1366 208L1367 206L1368 207L1367 213L1370 219L1369 222L1370 225L1373 225L1378 222L1382 222L1384 220L1388 220L1391 217L1394 217L1401 214L1401 211L1399 207L1399 198L1401 190L1404 186L1404 184L1409 177L1414 174L1416 171L1421 168L1423 168L1425 166L1429 166L1433 164L1442 164L1443 165L1442 166L1443 165L1450 166L1459 171L1460 173L1466 177L1468 181L1454 195L1451 201L1449 202L1449 205L1447 206L1447 208L1444 212L1443 215L1444 216L1441 222L1440 237L1472 237L1473 227L1480 215L1490 206L1498 202L1507 201L1508 200L1523 202L1524 204L1526 204L1534 209L1539 214L1546 225L1548 231L1547 234L1548 238L1580 238Z" fill="#29d0cb" fill-rule="evenodd"/> 
+  <path d="M1268 242H1607L1591 271L1607 300H1268L1284 271Z" fill="#253a47"/>
+  <text x="1294" y="289" fill="#66a3bb" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="54" font-weight="700">Tech Relay</text>
 </svg>
