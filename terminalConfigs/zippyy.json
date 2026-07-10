@@ -1,0 +1,21 @@
+{
+  "sourceType": "user",
+  "target": "zippyy",
+  "theme": "catppuccin",
+  "headerStyle": "mac",
+  "hostname": "github.com",
+  "typingSpeed": 80,
+  "commands": [
+    "whoami",
+    "aboutme",
+    "blog",
+    "neofetch",
+    "languages",
+    "uptime",
+    "exit"
+  ],
+  "customCommands": {
+    "aboutme": "Check out my personal page @ https://nbennett.xyz",
+    "blog": "Check out my blog @ https://techrelay.xyz"
+  }
+}
