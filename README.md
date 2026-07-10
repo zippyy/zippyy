@@ -30,9 +30,9 @@ Here are some ideas to get you started:-->
 
 [![Zippy profile views](https://u8views.com/api/v1/github/profiles/29045438/views/day-week-month-total-count.svg)](https://u8views.com/github/zippyy)
 
-<a href="https://gitviewsmap.onrender.com/zippyy">
+<!-- <a href="https://gitviewsmap.onrender.com/zippyy">
   <img src="https://gitviewsmap.onrender.com/badge/zippyy.svg" alt="GitViewsMap Visitor Badge" />
-</a>
+</a> -->
 
 [![GitHub Stats Terminal](./github_stats.svg)](https://github.com/zippyy)
 
