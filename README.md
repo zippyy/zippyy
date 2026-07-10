@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zippyy/zippyy/f0e84e5fb94586179bbbb15b5a19164f5f303389/github-header-banner.svg" alt="Zippyy Tech Relay profile header" width="842" />
+<img src="https://raw.githubusercontent.com/zippyy/zippyy/379be807558addb6257cd4d8b854d0d0ea31628f/github-header-banner.svg" alt="Zippyy Tech Relay profile header" width="842" />
 
 ### Hi there 👋
 
