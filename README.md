@@ -36,4 +36,4 @@ Here are some ideas to get you started:-->
 
 [![GitHub Stats Terminal](./github_stats.svg)](https://github.com/zippyy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zippyy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zippyy&theme=github_dark&animation=draw)
